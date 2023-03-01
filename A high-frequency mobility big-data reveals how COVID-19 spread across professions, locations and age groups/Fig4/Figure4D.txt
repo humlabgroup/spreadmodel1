@@ -1,0 +1,16 @@
+Professions	Fraction of population infected inside home	Fraction of population infected outside home
+Retirees	0.611428718	0.388571282
+Catering staff 	0.127547093	0.872452907
+Village workers 	0.139255585	0.860744415
+University staff 	0.163665038	0.836334962
+Transportation staff 	0.10231476	0.89768524
+Hotel staff 	0.111872099	0.888127901
+Urban residential workers 	0.134639798	0.865360202
+Industrial/Corporate workers 	0.174544562	0.825455438
+Retailers 	0.090626355	0.909373645
+Freelancers 	0.233151012	0.766848988
+Suburban workers 	0.115411113	0.884588887
+Entertainment staff 	0.122695112	0.877304888
+Medical practitioners 	0.114903372	0.885096628
+School students 	0.225892981	0.774107019
+Civil servants  	0.183484891	0.816515109
