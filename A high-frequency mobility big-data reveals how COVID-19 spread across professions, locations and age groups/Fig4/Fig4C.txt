@@ -1,4 +1,0 @@
-Age	Fraction of final infected population	Fraction of initial infected population	Fraction of individuals infected at home
-Age<15	0.1912	0.1857	0.2010
-Age15-60	0.7211	0.6311	0.1530
-Age>60	0.0877	0.1832	0.3732

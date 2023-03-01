@@ -1,5 +1,0 @@
-	Urban residential areas	Malls/Markets	Hotels	Coperates	Vallages	Universities	Hospitals	Entertainment premises	Schools	Government Premises	Suburban areas	Industrial areas	Life services	Transportation hubs	Restaurants
-Entertainment premises	45102	58153	15956	36679	27459	21793	12524	15173	14550	12752	9212	13357	4510	5971	3372
-Hospitals	49465	59426	17020	38632	32743	22434	18996	13477	16380	14602	11326	16650	4678	6509	3748
-Malls/Markets	46612	61553	16376	36954	28211	21161	12666	12745	15215	12980	9317	13840	4646	5896	3756
-Transportation hubs	43481	58433	15161	34657	27561	18629	11726	12243	14116	12293	9400	12138	3648	10845	3176

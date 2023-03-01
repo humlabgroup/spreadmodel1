@@ -1,5 +1,0 @@
-	Retirees	Catering staff	Village workers	University staff	Transportation staff	Hotel staff	Urban residential workers	Industrial/Corporate workers	Retailers	Freelancers	Suburban workers	Entertainment staff	Medical practitioners	School students	Civil servants 
-Entertainment staff	160	196	458	641	81	321	926	1622	1252	928	131	1524	275	499	453
-Medical practitioners	193	174	531	641	92	329	1019	2083	1193	1108	223	247	2142	557	492
-Retailers	232	261	625	1078	178	582	1663	3142	6225	1684	175	365	404	754	677
-Transportation staff	160	139	593	494	1483	264	827	1579	1271	895	184	164	221	418	345
